@@ -1,6 +1,6 @@
 # Group06_Project-BookStore_SE-2022
 Project của nhóm 06: Quản lý nhà sách
-- Giới thiệu project
+- Giới thiệu project: Quản lý nhà sách là dạng Web App đặt và mua sách online với đối tượng chủ yếu là học sinh và sinh viên cũng như những người yêu sách và App sẽ có dạng như Tiki.
 - Tham khảo chéo các project liên quan nếu có (backend thì giới thiệu link tham khảo frontend và ngược lại)
 - Môi trường thực thi (phiên bản hệ điều hành, SDK, Dev Tools, cơ sở dữ liệu, etc.)
 - Hướng dẫn cấu hình project chạy local PC.
