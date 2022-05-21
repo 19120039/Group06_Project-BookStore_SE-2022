@@ -6,5 +6,6 @@ Project của nhóm 06: Quản lý nhà sách
 - Hướng dẫn cấu hình project chạy local PC.
 - Hướng dẫn deploy project lên Heroku, Netlify, etc. (có thể bổ sung cho đến present cuối kỳ)
 - Link Google Drive hoặc Youtube video demo (có thể bổ sung cho đến present cuối kỳ)
-- Current status: tóm tắt những gì đã hoàn thành (có thể bổ sung cho đến present cuối kỳ)
-- Future works: tóm tắt những gì cần làm thêm (có thể bổ sung cho đến present cuối kỳ)
+7. Current status: tóm tắt những gì đã hoàn thành (có thể bổ sung cho đến present cuối kỳ)
+- Nhóm đã hoàn thành project , nhưng deploy lên heroku còn bị lỗi.
+8. Future works: tóm tắt những gì cần làm thêm (có thể bổ sung cho đến present cuối kỳ)
