@@ -9,3 +9,5 @@ Project của nhóm 06: Quản lý nhà sách
 7. Current status: tóm tắt những gì đã hoàn thành (có thể bổ sung cho đến present cuối kỳ)
 - Nhóm đã hoàn thành project , nhưng deploy lên heroku còn bị lỗi.
 8. Future works: tóm tắt những gì cần làm thêm (có thể bổ sung cho đến present cuối kỳ)
+- Deploy trên heroku.
+- Cải thiện độ ổn định, thêm vào các chức năng tương tác với sản phẩm và giữa người mua và người bán.
