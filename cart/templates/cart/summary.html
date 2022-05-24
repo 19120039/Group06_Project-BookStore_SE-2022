@@ -1,0 +1,7 @@
+{% load customfunction %}
+<ul class="list-group">
+	<li class="list-group-item d-flex justify-content-between align-items-center"><h4>Thông tin thanh toán</h4></li>
+	<li class="list-group-item d-flex justify-content-between align-items-center">Số lượng<span>{{ cart|length }}</span></li>
+	<li class="list-group-item d-flex justify-content-between align-items-center">Tổng tiền<span>{{ cart.get_total_price }},000đ </span></li>
+	<li class="list-group-item d-flex justify-content-between align-items-center">Phải trả<span>{{ cart.get_total_price }},000đ </span></li>
+</ul>	
