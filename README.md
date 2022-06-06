@@ -11,3 +11,6 @@ Project của nhóm 06: Quản lý nhà sách
 8. Future works: tóm tắt những gì cần làm thêm (có thể bổ sung cho đến present cuối kỳ)
 - Deploy trên heroku.
 - Cải thiện độ ổn định, thêm vào các chức năng tương tác với sản phẩm và giữa người mua và người bán.
+9. Link demo:
+-  Link Youtube: https://www.youtube.com/watch?v=uttrOrpPhvY
+-  Phần hướng dẫn cài đặt được đặt ở phần mô tả
