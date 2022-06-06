@@ -14,3 +14,4 @@ Project của nhóm 06: Quản lý nhà sách
 9. Link demo:
 -  Link Youtube: https://www.youtube.com/watch?v=uttrOrpPhvY
 -  Phần hướng dẫn cài đặt được đặt ở phần mô tả
+10. Link app heroku (bị lỗi không load được bootstrap, css):   https://nhom06-nhasach.herokuapp.com/
