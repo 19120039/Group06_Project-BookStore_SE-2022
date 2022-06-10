@@ -15,3 +15,4 @@ Project của nhóm 06: Quản lý nhà sách
 -  Link Youtube: https://www.youtube.com/watch?v=uttrOrpPhvY
 -  Phần hướng dẫn cài đặt được đặt ở phần mô tả
 10. Link app heroku (bị lỗi không load được bootstrap, css):   https://nhom06-nhasach.herokuapp.com/
+11. Link git dùng để deploy, dự phòng: https://github.com/Bakerville/Deploy
