@@ -46,12 +46,12 @@ class Review(models.Model):
 	review_text = models.TextField()
 	created = models.DateTimeField(auto_now_add=True)
 
-class Slider(models.Model):
-	title = models.CharField(max_length=150)
-	created = models.DateTimeField(auto_now_add=True)
-	updated = models.DateTimeField(auto_now=True)
-	slideimg = models.FileField(upload_to = "slide/")
+#class Slider(models.Model):
+#	title = models.CharField(max_length=150)
+#	created = models.DateTimeField(auto_now_add=True)
+#	updated = models.DateTimeField(auto_now=True)
+#	slideimg = models.FileField(upload_to = "slide/")
 
-	def __str__(self):
-		return self.title
+#	def __str__(self):
+#		return self.title
 
